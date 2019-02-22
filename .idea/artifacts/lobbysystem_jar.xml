@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lobbysystem:jar">
+    <output-path>$USER_HOME$/Schreibtisch/Spigot Server 1.8/plugins</output-path>
+    <root id="archive" name="lobbysystem.jar">
+      <element id="module-output" name="lobbysystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/craftbukkit-1.8.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

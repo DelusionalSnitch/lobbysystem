@@ -1,0 +1,9 @@
+name: Lobbysystem
+version: 1.0
+main: de.pixeltitan.lobbysystem.main.Main
+depend: [CloudNetAPI]
+author: PixelTitanDevTeam
+commands:
+  build:
+  spawn:
+  spazz:
